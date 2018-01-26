@@ -1,0 +1,17 @@
+{
+ "name": "Animation sqaud",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "4fa01591-84d5-291b-c758-964f7ec22d30",
+   "pageId": "4fa01591-84d5-291b-c758-964f7ec22d30",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "812a9890-8f5a-850d-b192-be2acfa5750b",
+   "pageId": "812a9890-8f5a-850d-b192-be2acfa5750b",
+   "type": "page"
+  }
+ ]
+}
